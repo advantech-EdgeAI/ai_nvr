@@ -1,2 +1,2 @@
-# ai-nvr
+# AI-NVR
 Advantech AI-NVR
