@@ -42,6 +42,8 @@ After BSP flashing successfully, please download AINVR package from URL.
 
 Filename: mic717\_ainvr\_v01.tbz2 ([Download](https://advantecho365-my.sharepoint.com/:u:/g/personal/sean23_chang_advantech_com/ES5RdqVBaLhInU2BkSMfcloBc6Z0vnd5DsNQkM1nZzGjsg?e=RQs50v))
 
+MD5: ea8d8d1a6ec92a0ca4efb8b36ba75141
+
 Filesize: 7.0 GB
 
 ![image](https://github.com/user-attachments/assets/5354eb6a-b330-49b1-8032-cd9d36a32571)
