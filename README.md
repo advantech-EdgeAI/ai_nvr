@@ -102,5 +102,3 @@ The files are saved at /data/vst-volume/video.
 https://docs.nvidia.com/moj/setup/ai-nvr.html
 
 https://docs.nvidia.com/moj/setup/quick-start.html
-
-https://wiki.seeedstudio.com/getting\_started\_with\_nvstreamer/
