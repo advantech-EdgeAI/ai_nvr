@@ -76,6 +76,7 @@ Select “File Upload” and select a video from file (Supported codec: h264/h26
 **Video Storage Toolkit (VST)** is developed by Nvidia. It is particularly suitable for AI based video analytics systems by providing hardware accelerated video decoding, streaming and storage from multiple video sources. VST auto-discovers ONVIF-S compliant IP cameras, and allows use of custom IP stream as video source. It also allows for video to be stored, played back at various speeds, or paused at any frame.
 
 Launch Chromium Browser In the address bar enter http://127.0.0.1:30080/vst
+(Please connect MIC-717 eth1 with internet, VST service check internet status at beginning)
 
 ![image](https://github.com/user-attachments/assets/7e2cd7c4-4e24-4af0-bdba-82352fabd49c)
 
